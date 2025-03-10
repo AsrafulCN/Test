@@ -1,7 +1,7 @@
 // script.js in staging branch
-const msgForSite = "This is my website"
+const msgForWebSite = "This is my website"
 function greet() {
-    console.log("Hello from Staging Environment!");
+    console.log("Hello from Staging Environment!=stagingenv");
 }
 
 greet();
