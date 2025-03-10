@@ -1,6 +1,7 @@
-// script.js in main branch
+// script.js in staging branch
 function greet() {
-    console.log("Hello from Staging!");
+    console.log("Hello from Staging Environment!");
 }
 
 greet();
+
