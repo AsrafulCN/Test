@@ -1,7 +1,12 @@
-const msgForWebSite = "This is my website";
+
+let content = "There is no content available";
+
+
 function greet() {
-    console.log("Hello from Staging Environment!=stagingenv");
+    console.log("Hello from Staging Environment!=testingenv");
 }
 greet();
+
+
 
 
